@@ -1,0 +1,13 @@
+
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    place-items: left;
+}
+
+.btn {
+    background-color: blueviolet;
+    padding: 5px;
+    color: white;
+}
